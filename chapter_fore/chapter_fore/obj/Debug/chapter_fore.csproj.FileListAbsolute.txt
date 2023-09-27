@@ -1,0 +1,7 @@
+D:\个人文件\代码管理库\c#代码库\chapter_fore\chapter_fore\bin\Debug\chapter_fore.exe.config
+D:\个人文件\代码管理库\c#代码库\chapter_fore\chapter_fore\bin\Debug\chapter_fore.exe
+D:\个人文件\代码管理库\c#代码库\chapter_fore\chapter_fore\bin\Debug\chapter_fore.pdb
+D:\个人文件\代码管理库\c#代码库\chapter_fore\chapter_fore\obj\Debug\chapter_fore.csproj.AssemblyReference.cache
+D:\个人文件\代码管理库\c#代码库\chapter_fore\chapter_fore\obj\Debug\chapter_fore.csproj.CoreCompileInputs.cache
+D:\个人文件\代码管理库\c#代码库\chapter_fore\chapter_fore\obj\Debug\chapter_fore.exe
+D:\个人文件\代码管理库\c#代码库\chapter_fore\chapter_fore\obj\Debug\chapter_fore.pdb
