@@ -1,0 +1,7 @@
+D:\个人文件\代码管理库\c#代码库\chapter five\chapter five\bin\Debug\chapter five.exe.config
+D:\个人文件\代码管理库\c#代码库\chapter five\chapter five\bin\Debug\chapter five.exe
+D:\个人文件\代码管理库\c#代码库\chapter five\chapter five\bin\Debug\chapter five.pdb
+D:\个人文件\代码管理库\c#代码库\chapter five\chapter five\obj\Debug\chapter five.csproj.AssemblyReference.cache
+D:\个人文件\代码管理库\c#代码库\chapter five\chapter five\obj\Debug\chapter five.csproj.CoreCompileInputs.cache
+D:\个人文件\代码管理库\c#代码库\chapter five\chapter five\obj\Debug\chapter five.exe
+D:\个人文件\代码管理库\c#代码库\chapter five\chapter five\obj\Debug\chapter five.pdb
