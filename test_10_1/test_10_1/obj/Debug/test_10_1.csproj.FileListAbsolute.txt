@@ -1,0 +1,7 @@
+D:\个人文件\代码管理库\unity资源库\test_10_1\test_10_1\obj\Debug\test_10_1.csproj.AssemblyReference.cache
+D:\个人文件\代码管理库\unity资源库\test_10_1\test_10_1\obj\Debug\test_10_1.csproj.CoreCompileInputs.cache
+D:\个人文件\代码管理库\unity资源库\test_10_1\test_10_1\bin\Debug\test_10_1.exe.config
+D:\个人文件\代码管理库\unity资源库\test_10_1\test_10_1\bin\Debug\test_10_1.exe
+D:\个人文件\代码管理库\unity资源库\test_10_1\test_10_1\bin\Debug\test_10_1.pdb
+D:\个人文件\代码管理库\unity资源库\test_10_1\test_10_1\obj\Debug\test_10_1.exe
+D:\个人文件\代码管理库\unity资源库\test_10_1\test_10_1\obj\Debug\test_10_1.pdb
