@@ -1,0 +1,7 @@
+D:\个人文件\代码管理库\c#代码库\test_10_17\test_10_17\bin\Debug\test_10_17.exe.config
+D:\个人文件\代码管理库\c#代码库\test_10_17\test_10_17\bin\Debug\test_10_17.exe
+D:\个人文件\代码管理库\c#代码库\test_10_17\test_10_17\bin\Debug\test_10_17.pdb
+D:\个人文件\代码管理库\c#代码库\test_10_17\test_10_17\obj\Debug\test_10_17.csproj.AssemblyReference.cache
+D:\个人文件\代码管理库\c#代码库\test_10_17\test_10_17\obj\Debug\test_10_17.csproj.CoreCompileInputs.cache
+D:\个人文件\代码管理库\c#代码库\test_10_17\test_10_17\obj\Debug\test_10_17.exe
+D:\个人文件\代码管理库\c#代码库\test_10_17\test_10_17\obj\Debug\test_10_17.pdb
