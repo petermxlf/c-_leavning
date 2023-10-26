@@ -1,0 +1,2 @@
+D:\个人文件\代码管理库\c#代码库\test_10_26\test_10_26\obj\Debug\test_10_26.csproj.AssemblyReference.cache
+D:\个人文件\代码管理库\c#代码库\test_10_26\test_10_26\obj\Debug\test_10_26.csproj.CoreCompileInputs.cache
