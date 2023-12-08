@@ -1,0 +1,7 @@
+D:\个人文件\代码管理库\c#代码库\test_1204\test_1204\bin\Debug\test_1204.exe.config
+D:\个人文件\代码管理库\c#代码库\test_1204\test_1204\bin\Debug\test_1204.exe
+D:\个人文件\代码管理库\c#代码库\test_1204\test_1204\bin\Debug\test_1204.pdb
+D:\个人文件\代码管理库\c#代码库\test_1204\test_1204\obj\Debug\test_1204.csproj.AssemblyReference.cache
+D:\个人文件\代码管理库\c#代码库\test_1204\test_1204\obj\Debug\test_1204.csproj.CoreCompileInputs.cache
+D:\个人文件\代码管理库\c#代码库\test_1204\test_1204\obj\Debug\test_1204.exe
+D:\个人文件\代码管理库\c#代码库\test_1204\test_1204\obj\Debug\test_1204.pdb
